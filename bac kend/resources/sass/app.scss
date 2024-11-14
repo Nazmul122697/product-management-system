@@ -1,0 +1,8 @@
+/* resources/sass/app.scss */
+@import 'variables'; /* If you have a _variables.scss file */
+@import 'mixins';    /* If you have a _mixins.scss file */
+@import 'styles';    /* Other styles or partials */
+
+body {
+    font-family: Arial, sans-serif;
+}
